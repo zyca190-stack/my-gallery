@@ -28,5 +28,11 @@
     "name": "a'--",
     "text": "x",
     "createdAt": "2026-10-24T16:24:02.123Z"
+  },
+  {
+    "id": "0c64a6fa-7d54-4b7d-a4aa-b62553f65320",
+    "name": "a\r\nb",
+    "text": "c\nd",
+    "createdAt": "2026-10-24T16:24:08.097Z"
   }
 ]
